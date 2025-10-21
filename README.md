@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I create responsive, user-friendly websites and web apps using JavaScript, React, Node.js, WebFlow, HTML, CSS, and Tailwind. I also bring experience in SQL, system troubleshooting, and customer-focused support, ensuring reliable, scalable, and optimized solutions for your business.
+I create responsive, user-friendly websites and web apps using JavaScript, React, Node.js, WebFlow, HTML, CSS, and Tailwind. I also bring experience in SQL, system troubleshooting, and customer-focused support, ensuring reliable, scalable, and optimized solutions for your businesss
 
 ## Tools
 
